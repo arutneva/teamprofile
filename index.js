@@ -150,5 +150,7 @@ function addMore() {
 
 
 function generateHTML() {
-
+    
 }
+
+begin()
